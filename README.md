@@ -8,3 +8,4 @@ After running app.py, open another terminal and type:
 curl http://127.0.0.1:5000/"location of json file".
 The program takes in the json file location, writes the json file in reverse, and then puts the json string. 
 The code system exits with an error if the json body is not a string, but writes and puts reversed string otherwise. 
+The output of the json body string is in the native location (will probably change).
